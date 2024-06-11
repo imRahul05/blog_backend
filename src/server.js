@@ -23,7 +23,7 @@ app.use(express.json());
 
 // Use the cors middleware
 app.use(cors({
-  origin: 'bloogyy.vercel.app', // replace with your client's domain
+  origin: 'https://bloogyy.vercel.app', // replace with your client's domain
   methods: ['GET', 'POST', 'PUT', 'DELETE'], // replace with the methods your client will use
   credentials: true,
 }));
