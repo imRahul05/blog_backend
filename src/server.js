@@ -164,7 +164,6 @@ import 'dotenv/config';
 import { db, connectToDb } from "./db.js";
 import {fileURLToPath} from 'url';
 import dotenv from 'dotenv';
-import cors from 'cors'; // Import the cors package
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
