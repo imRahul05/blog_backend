@@ -1,0 +1,3 @@
+env_variables:
+  MONGO_USERNAME: "bloggy-server"  # Note the quotes around the value
+  MONGO_PASSWORD: "zhqg2w45ESYLbolV"  # Note the quotes around the value

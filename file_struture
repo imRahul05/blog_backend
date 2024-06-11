@@ -1,0 +1,66 @@
+/Users/amananku/Documents/NewProject/blog_back/
+  ├─ .vscode/
+  │  └─ settings.json
+  ├─ bloggy-backend/
+  │  ├─].vercel/ (ignored)
+  │  ├─ .vscode/
+  │  │  └─ settings.json
+  │  ├─]mongo-db-data/ (ignored)
+  │  ├─]node_modules/ (ignored)
+  │  ├─ src/
+  │  │  ├─ .env
+  │  │  ├─ db.js
+  │  │  └─ server.js
+  │  ├─ .DS_Store
+  │  ├─ .gitignore
+  │  ├─ app.yaml
+  │  ├─]credentials.json (ignored)
+  │  ├─ package-lock.json
+  │  ├─ package.json
+  │  └─ prod-env.yaml
+  ├─ bloggy-frontend/
+  │  ├─].vercel/ (ignored)
+  │  ├─ .vscode/
+  │  │  └─ settings.json
+  │  ├─]build/ (ignored)
+  │  ├─]node_modules/ (ignored)
+  │  ├─ public/
+  │  │  ├─ favicon.ico
+  │  │  ├─ index.html
+  │  │  ├─ manifest.json
+  │  │  └─ robots.txt
+  │  ├─ src/
+  │  │  ├─ assets/
+  │  │  │  └─ logo.png
+  │  │  ├─ components/
+  │  │  │  ├─ AddCommentForm.js
+  │  │  │  ├─ ArticlesList.js
+  │  │  │  └─ commnetList.js
+  │  │  ├─ hooks/
+  │  │  │  └─ useUser.js
+  │  │  ├─ pages/
+  │  │  │  ├─ Authentication/
+  │  │  │  │  ├─ CreateAccountPage.js
+  │  │  │  │  └─ LoginPage.js
+  │  │  │  ├─ AboutPage.js
+  │  │  │  ├─ article-content.js
+  │  │  │  ├─ ArticleListPage.js
+  │  │  │  ├─ ArticlePage.js
+  │  │  │  ├─ HomePage.js
+  │  │  │  └─ NotFoundPage.js
+  │  │  ├─ App.css
+  │  │  ├─ App.js
+  │  │  ├─ App.test.js
+  │  │  ├─ index.css
+  │  │  ├─ index.js
+  │  │  ├─ NavBar.js
+  │  │  ├─ reportWebVitals.js
+  │  │  └─ setupTests.js
+  │  ├─].DS_Store (ignored)
+  │  ├─ .gitignore
+  │  ├─ package-lock.json
+  │  ├─ package.json
+  │  ├─ README.md
+  │  └─ tailwind.config.js
+  ├─].DS_Store (ignored)
+  └─ .gitignore
