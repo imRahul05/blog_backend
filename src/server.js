@@ -23,10 +23,11 @@ app.use(express.json());
 
 // Use the cors middleware
 app.use(cors({
-  origin: 'https://blog-frontend-bice-one.vercel.app', // replace with your client's domain
+  origin: 'bloogyy.vercel.app', // replace with your client's domain
   methods: ['GET', 'POST', 'PUT', 'DELETE'], // replace with the methods your client will use
   credentials: true,
 }));
+
 
 app.use(express.static(path.join(__dirname,'../build')))
 
