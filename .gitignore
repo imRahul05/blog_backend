@@ -1,7 +1,4 @@
 node_modules
 mongo-db-data
-
-
 .env
 .vercel
-# chdbh
